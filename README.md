@@ -3,12 +3,16 @@
 Allows you to search for a folder in Alfred, open a terminal instance, and `cd`
 into the selected folder in one step.
 
+![Screencast gif](https://raw.githubusercontent.com/janclarin/open-in-terminal/master/screenshots/screencast.gif)
+
 Note: Terminal/iTerm does *not* have to be open before running this command.
+
+### Usage
+Type `cd` into Alfred followed by the folder that you want to open in Terminal.
 
 ### iTerm2 support
 By default, Alfred will use Terminal.app when running terminal commands via
-workflows. This must be changed within Alfred's preferences to open iTerm2.
-
+workflows. This must be changed within Alfred's preferences to open iTerm2.  
 To do so, follow these instructions copied from
 [iTerm2's support page](https://www.iterm2.com/version3.html):
 > Go to Alfred Preferences and choose Features.
