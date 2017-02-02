@@ -3,7 +3,7 @@
 Allows you to search for a folder in Alfred, open a terminal instance, and `cd`
 into the selected folder in one step.
 
-![Screencast gif](https://raw.githubusercontent.com/janclarin/open-in-terminal/master/screenshots/screencast.gif)
+<img src="https://raw.githubusercontent.com/janclarin/open-in-terminal/master/screenshots/screencast.gif" width="480">
 
 Note: Terminal/iTerm does *not* have to be open before running this command.
 
