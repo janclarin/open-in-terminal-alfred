@@ -2,6 +2,8 @@
 
 Allows you to search for a folder in Alfred, open a terminal instance, and `cd`
 into the selected folder in one step.
+Never type `cd super/long/directory/structure/folder` ever again.
+Just type `cd folder` into Alfred.
 
 **[DOWNLOAD](https://github.com/janclarin/open-in-terminal/releases/download/1.0/open-in-terminal.alfredworkflow)**
 
